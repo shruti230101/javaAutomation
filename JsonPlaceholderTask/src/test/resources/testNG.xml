@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="API Testing Suite" verbose="1">
+    <test name="JSON Placeholder User Task">
+        <classes>
+            <class name = "com.epam.testlayer.UsersTest"/>
+        </classes>
+    </test>
+</suite>
